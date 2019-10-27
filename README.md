@@ -9,7 +9,8 @@
 
 ## yarn 추가 설치목록
 	yarn add node-sass classnames react-icons
-
+	yarn add react-virtualized
+	
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
